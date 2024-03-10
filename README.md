@@ -45,7 +45,9 @@ Feel free to explore the repository and delve into the solutions provided for ea
 **Related Content**
 
 ✔️Tutorials: I have included tutorials on PySpark basics and advanced concepts to help beginners understand the framework better.
+
 ✔️Case Studies: Apart from the scenarios provided by Thoufiq Mohammad, I have included additional case studies for further practice and learning.
+
 ✔️Additional Resources: Links to relevant blogs, articles, and documentation for further reading on PySpark and big data analytics.
 
 **Credits**

@@ -16,6 +16,7 @@ To start, I imported the necessary modules and packages required for working wit
 **Step 2: Creating DataFrames**
 
 I created various DataFrames using Spark.read.csv and included various CSV files in Spark. These CSV files contain the datasets required to solve the given problem scenarios.
+![image-2](https://github.com/sauryaritesh/Real-Time-Case-Study-Based-Scenarios-using-PySpark/blob/main/2---.png)
 
 **Step 3: Solving Scenario-Based Problems**
 

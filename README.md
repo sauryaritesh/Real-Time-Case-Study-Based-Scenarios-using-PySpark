@@ -24,6 +24,7 @@ Using PySpark DataFrame operations, I solved a variety of scenario-based problem
 
 **Step 4: Cloud Platform Integration (Databricks)**
 
+![image-3](https://github.com/sauryaritesh/Real-Time-Case-Study-Based-Scenarios-using-PySpark/blob/main/data.png)
 Additionally, I solved some of the scenarios on a cloud platform, specifically Databricks. Databricks provides a unified analytics platform that simplifies big data and AI tasks. I utilized Databricks for its scalability and ease of use in handling large datasets.
 
 **Step 5: Testing and Evaluation**

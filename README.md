@@ -11,7 +11,7 @@ In this project, I've translated SQL-based problem statements into PySpark solut
 **Step 1: Importing Modules and Packages**
 
 To start, I imported the necessary modules and packages required for working with PySpark. These include SparkSession from pyspark.sql and other relevant packages.
-
+![Image-1]()
 **Step 2: Creating DataFrames**
 
 I created various DataFrames using Spark.read.csv and included various CSV files in Spark. These CSV files contain the datasets required to solve the given problem scenarios.
